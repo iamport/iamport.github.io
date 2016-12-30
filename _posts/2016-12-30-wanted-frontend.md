@@ -18,11 +18,11 @@ date:   2016-12-30 10:00:00 +0900
 * HTML/CSS 또는 Javascript를 사용한 프로젝트 경험이 있으신 분
 
 ### 우대조건
+* AI, SVG 등 Vector 이미지를 다루는데 친숙하신 분
+* Bootstrap, Semantic-UI 등 UI Framework에 대한 이해가 있으신 분
 * 미디어쿼리를 이용한 반응형 웹 개발의 경험이 있으신 분
 * Less, Sass 등 CSS Pre-processor의 사용경험이 있으신 분
-* Bootstrap, Semantic-UI 등 UI Framework에 대한 이해가 있으신 분
 * AngularJS, ReactJS 등 Front-end framework에 이해가 있으신 분
-* AI, SVG 등 Vector 이미지를 다루는데 친숙하신 분
 
 ### 업무
 국내 결제서비스는 결제완료단계에 도달하기까지 무언가 설치해야하고 새로고침되어야해서 한 번만에 결제를 성공할 수 없다는 특징(?)이 있습니다.
