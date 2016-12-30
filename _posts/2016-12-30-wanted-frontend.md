@@ -43,4 +43,4 @@ date:   2016-12-30 10:00:00 +0900
 
 감사합니다  
 
-![]({{ site.url }}/images/chart.png)
+![](/images/chart.png)
